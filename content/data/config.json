@@ -4,7 +4,7 @@
         "headerVariant": "variant-c",
         "primaryColors": "colors-a",
         "secondaryColors": "colors-a",
-        "backgroundWidth": "inset",
+        "backgroundWidth": "full",
         "title": "Minimal",
         "isTitleVisible": true,
         "logo": {
